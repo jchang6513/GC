@@ -22,4 +22,4 @@ def randzen():
 	   "Namespaces are one honking great idea -- let's do more of those!"
 	]
 	
-	return str[random.randint(0,len(str))]
+	return str[random.randint(0,len(str)-1)]
