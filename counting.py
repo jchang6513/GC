@@ -1,4 +1,4 @@
-# part. 1 counting
+# part1: counting
 
 urls = ["http://www.google.com/a.txt",
 		"http://www.google.com.tw/a.txt",

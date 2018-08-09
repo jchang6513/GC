@@ -1,4 +1,4 @@
-# part 2. integration
+# part1: integration
 
 def anonymous(x):    
 #	return 10 
