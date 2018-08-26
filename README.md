@@ -1,5 +1,3 @@
-# Gliacloud
-
 part 1 
 
 Counting -> counting.py
